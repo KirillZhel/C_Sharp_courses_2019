@@ -7,6 +7,7 @@ namespace CSharpCourse_11
         static void Main(string[] args)
         {
             //проба пера в github
+            //вторая отправка для теста
         }
 
         static void Variables_lesson_10()
