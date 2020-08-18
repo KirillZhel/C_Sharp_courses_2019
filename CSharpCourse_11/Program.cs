@@ -1,13 +1,13 @@
 ﻿using System;
 
-namespace CSharpCourse_11
+namespace CSharpCourse
 {
     class Program
     {
         static void Main(string[] args)
         {
-            //проба пера в github
-            //вторая отправка для теста
+            Console.WriteLine("Hello World!");
+            Console.Read();
         }
 
         static void Variables_lesson_10()
